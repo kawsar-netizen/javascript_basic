@@ -3,4 +3,25 @@
   .highlight {
     background-color: yellow;
   }
+
+  /* image */
+/* 
+  img{
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+  } */
+
+  .hover{
+    font-size: 50px;
+    color: aquamarine;
+  }
+
+  img{
+  border-radius: 10px;
+  }
+
+  .bgtoggle{
+    background-color: orange;
+  }
   
